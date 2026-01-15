@@ -14,7 +14,7 @@ disqus_show_comment_count: false
 
 exclude: ["vendor", "LICENSE", "_posts/LICENSE"]
 
-plugins: ["jekyll-redirect-from", "jekyll-paginate"]
+gems: ["jekyll-redirect-from", "jekyll-paginate"]
 
 markdown: kramdown
 highlighter: rouge
