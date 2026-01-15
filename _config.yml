@@ -1,11 +1,7 @@
-url: https://artsy.github.io
-title: Artsy Engineering
-subtitle: Discover fine engineering.
-google_analytics_tracking_id: UA-12450662-3
+url: https://clubreal.world
+title: Club Real World
 permalink: /:slug
 baseurl: "" # the subpath of your site, e.g. /blog/
-twitter_username: ArtsyOpenSource
-github_username: Artsy
 
 subscribe_rss: /feed.xml
 
