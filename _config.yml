@@ -3,7 +3,7 @@ title: Artsy Engineering
 subtitle: Discover fine engineering.
 google_analytics_tracking_id: UA-12450662-3
 permalink: /blog/:year/:month/:day/:title/
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 twitter_username: ArtsyOpenSource
 github_username: Artsy
 
