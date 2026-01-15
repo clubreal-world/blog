@@ -5,6 +5,15 @@
     </ul>
   </div>
 
+    <span class="header-section-title">
+      {% if page.section == opensource %}
+        <a href="/open-source">Open Source</a>
+      {% else %}
+        <a href="/">Engineering Blog</a>
+      {% endif%}
+    </span>
+  </div>
+
   <div class="header-sticky-container">
     <div class="header-logo">
       <h2><a href="{{ site.url }}">Club Real World</a></h2>
