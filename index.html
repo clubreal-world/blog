@@ -5,7 +5,6 @@ layout: default
 <div class="blog-index">
   {% assign index = true %}
   {% for post in paginator.posts %}
-  {% unless post.hidden == true %}
     {% assign content = post.content %}
       <article>
         {% include article_list_item.html %}
