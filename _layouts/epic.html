@@ -11,15 +11,8 @@
     <div id="bodywrapper">
       <header>
         <ul>
-          <li><a href="/">Artsy Engineering Blog</a></li>
-          <li><a href="https://www.artsy.net/jobs">Careers</a></li>
-          <li><a href="https://github.com/artsy">Github</a></li>
-        </ul>
-
-        <ul>
-          <li><a href="https://github.com/orgs/artsy/repositories?language=&q=&sort=&type=source">Our Open Source</a></li>
-          <li><a href="http://twitter.com/artsyopensource">@artsyopensource</a></li>
-          <li><a href="https://www.artsy.net">artsy.net</a></li>
+          <li><a href="/">clubreal.world</a></li>
+          <li><a href="mailto:lovesdevotee@gmail.com">contact</a></li>
         </ul>
       </header>
 
@@ -72,52 +65,11 @@
             <p>Tagged: {{ page.categories | category_links }}</p>
           </section>
           <br/>
+
           <section>
-            <h4>Artsy OSS</h4>
+            <h4>events</h4>
             <ul>
-              <li><a href='https://www.artsy.net'>Artsy.net</a></li>
-              <li><a href='https://github.com/artsy'>Github</a></li>
-              <li><a href='https://github.com/orgs/artsy/repositories?language=&q=&sort=&type=source'>Open Source</a></li>
-              <li><a href='https://www.artsy.net/jobs'>Careers</a></li>
-            </ul>
-          </section>
-
-          <section>
-            <h4>Blog</h4>
-            <ul>
-              <li><a href='http://artsy.github.io/blog/archives/'>Archives</a></li>
-              <!-- TODO: bring back a different version of site search  -->
-              <!-- <li><a href='http://artsy.github.io/search/'>Search</a></li> -->
-              <li><a href='https://github.com/artsy/artsy.github.io'>Code on GitHub</a></li>
-              <li><a href='https://github.com/artsy/artsy.github.io/edit/source/{{page.path}}'>Fix typos in this post</a></li>
-            </ul>
-          </section>
-
-        </article>
-
-        <article>
-          <section>
-            <h4>Post Series on the Blog</h4>
-            <ul>
-              {% for series in site.series %}
-              <li><a href='/{{ series.url }}'>{{series.title}}</a></li>
-              {% endfor %}
-            </ul>
-          </section>
-
-          <section>
-          {% if page.series %}
-          <p class="meta-series" style="padding-bottom:0;">More from <strong>{{ page.series | series_link }}</strong></p>
-          <ul>
-            {% for post in site.posts %}
-              {% if post.series == page.series %}
-                {% if post.id != page.id %}
-                <li><a href='{{ root_url }}{{ post.url }}'>{{post.title}}</a></li>
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-          </ul>
-          {% endif %}
+              <li><a href='/archives'>archives</a></li>
           </section>
         </article>
 
