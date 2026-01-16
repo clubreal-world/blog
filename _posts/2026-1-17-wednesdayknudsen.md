@@ -3,6 +3,7 @@ layout: post
 title: "Wednesday Knudsen - 2/17/26"
 date: 2026-01-16 19:34
 categories: [gig, ambient, experimental]
+blurb: An evening of ambience and indian food in Bethlehem, PA
 ---
 
 ClubRealWorld presents:
