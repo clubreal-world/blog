@@ -211,7 +211,7 @@ header#banner {
     @include desktop-container;
     padding-top: 40px;
     position: relative;
-    height: 250px;
+    height: 300px;
     border-bottom: 1px solid $artsy-text;
 
     .header-navigation{
@@ -251,6 +251,7 @@ header#banner {
 
     .header-search{
       margin-left: 250px;
+      height: 150px;
       vertical-align: bottom;
       ::-webkit-input-placeholder { /* WebKit browsers */
         color: $artsy-text;
