@@ -226,7 +226,6 @@ header#banner {
       }
       li{
          float: left;
-         margin: 0 40px 0 0;
          display: block;
       }
       & a:hover {
@@ -236,16 +235,14 @@ header#banner {
 
     .header-sticky-container{
       width: 100%;
-      padding-bottom: 15px;
+      padding-bottom: 40px;
     }
 
     .header-section-title{
       float: right;
-      display: inline;
     }
 
     .header-logo{
-      vertical-align: text-top;
       float: left;
       width: 50%;
       max-width: 250px;
