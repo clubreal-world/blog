@@ -12,7 +12,8 @@ exclude_from_search: true
     {% assign year = this_year %}
     <h2 id="{{year}}">{{ year }}</h2>
   {% endunless %}
-
+  
+{% unless post.hidden == true %}
   <article>
     <div class="content-container">
       <a href="{{ root_url }}{{ post.url }}">
@@ -20,6 +21,7 @@ exclude_from_search: true
       </a>
     </div>
   </article>
+  {% endunless %}
 
   {% endfor %}
 </div>
