@@ -236,13 +236,12 @@ header#banner {
 
     .header-sticky-container{
       width: 100%;
-      padding-bottom: 25px;
-      float: bottom;
+      padding-bottom: 15px;
     }
 
     .header-section-title{
       float: right;
-      vertical-align: bottom;
+      display: inline;
     }
 
     .header-logo{
