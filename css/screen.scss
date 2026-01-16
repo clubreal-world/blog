@@ -1,4 +1,4 @@
----
+----
 ---
 
 @import "base/utilities";
@@ -211,7 +211,7 @@ header#banner {
     @include desktop-container;
     padding-top: 40px;
     position: relative;
-    height: 100px;
+    height: 180px;
     border-bottom: 1px solid $artsy-text;
 
     .header-navigation{
@@ -226,6 +226,7 @@ header#banner {
       }
       li{
          float: left;
+         margin: 0 40px 0 0;
          display: block;
       }
       & a:hover {
@@ -246,12 +247,10 @@ header#banner {
       float: left;
       width: 50%;
       max-width: 250px;
-      z-index: 999;
     }
 
     .header-search{
       margin-left: 250px;
-      height: 100px;
       ::-webkit-input-placeholder { /* WebKit browsers */
         color: $artsy-text;
       }
@@ -299,7 +298,7 @@ header#banner {
   }
   header#banner {
     position: relative;
-    height: 100px;
+    height: 370px;
     border-bottom: 1px solid;
     max-height: 70px;
     overflow: hidden;
@@ -332,8 +331,6 @@ header#banner {
     }
     .header-search h2 {
       border-bottom: 1px solid;
-      height: 100px;
-      vertical-align:bottom;
       margin-bottom: 20px !important;
       padding-bottom: 20px !important;
     }
