@@ -23,4 +23,4 @@ Tuesday, February 17 2026
 Nawab Indian Restaurant
 13 E 4th St, Bethlehem, PA 18015
 
-8pm // 10$ Suggested Donation
+7pm // 10$ Suggested Donation
