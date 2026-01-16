@@ -299,7 +299,7 @@ header#banner {
   }
   header#banner {
     position: relative;
-    height: 100px;
+    height: 200px;
     border-bottom: 1px solid;
     max-height: 70px;
     overflow: hidden;
@@ -332,6 +332,7 @@ header#banner {
     }
     .header-search h2 {
       border-bottom: 1px solid;
+      height: 150px;
       margin-bottom: 20px !important;
       padding-bottom: 20px !important;
     }
