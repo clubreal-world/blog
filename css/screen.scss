@@ -251,7 +251,7 @@ header#banner {
 
     .header-search{
       margin-left: 250px;
-      height: 150px;
+      height: 100px;
       ::-webkit-input-placeholder { /* WebKit browsers */
         color: $artsy-text;
       }
@@ -332,7 +332,7 @@ header#banner {
     }
     .header-search h2 {
       border-bottom: 1px solid;
-      height: 150px;
+      height: 100px;
       vertical-align:bottom;
       margin-bottom: 20px !important;
       padding-bottom: 20px !important;
