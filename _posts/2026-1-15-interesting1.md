@@ -3,7 +3,6 @@ layout: epic
 title: "Interesting Evening #1"
 date: 2026-01-15 19:34
 categories: [interestingevening, event]
-author: orta
 ---
 
 ClubRealWorld presents
