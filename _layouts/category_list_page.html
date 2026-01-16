@@ -11,7 +11,7 @@ footer: false
     <p>Club Real World isn't just about shows, we organize a variety of event types:</p>
     <ul>
     {% for category in page.categories %}
-      {% unless category.name == about %}
+      {% unless category.name = about %}
       <li><a title="{{ category.count }} posts on {{ category.name }}" href="/blog/categories/{{ category.dir }}">{{ category.name }}</a></li>
       {% endunless %}
     {% endfor %}
