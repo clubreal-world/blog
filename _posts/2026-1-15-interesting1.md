@@ -3,6 +3,7 @@ layout: post
 title: "Interesting Evening #1 - 1/17/26"
 date: 2026-01-15
 categories: [interestingevening, film, video, bingo, DJs]
+blurb: An interesting evening with Bingo, film/video/ and DJs
 ---
 
 ClubRealWorld presents
