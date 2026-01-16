@@ -2,19 +2,7 @@
 
   {% unless page.no_header %}
     <div class="meta-container">
-      <header>
-        {% unless page.meta == false %}
-          <a href="{{ root_url }}{{ post.url }}">
-        {% endunless %}
-        {% if index %}
-          <h2 class="entry-title">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</h2>
-        {% else %}
-          <h2 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
-        {% endif %}
-        <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
-          <p class="meta-author">{% include post/mini-author.html %}</p>
-          </a>
-      </header>
+      <header id="banner">{% include header.html %}</header>
     </div>
   {% endunless %}
 
@@ -33,7 +21,6 @@
   </div>
 
 
-  <footer>
-  </footer>
+  <footer id="main_footer">{% include footer.html %}</footer>
 
 </div>
