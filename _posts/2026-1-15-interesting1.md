@@ -19,8 +19,9 @@ Bingo!
 
 ClubRealWorld DJs
 
-Saturday, January 17
+Saturday, January 17  
 
-National Sokol’s, Bethlehem, PA
+National Sokol’s  
+613 Hillside Ave, Bethlehem, PA 18015  
 
-8:00pm | FREE
+8:00pm - Free 
