@@ -251,6 +251,7 @@ header#banner {
 
     .header-search{
       margin-left: 250px;
+      vertical-align: bottom;
       ::-webkit-input-placeholder { /* WebKit browsers */
         color: $artsy-text;
       }
