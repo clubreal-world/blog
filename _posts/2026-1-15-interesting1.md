@@ -25,4 +25,4 @@ Saturday, January 17
 National Sokol’s  
 613 Hillside Ave, Bethlehem, PA 18015  
 
-8:00pm - Free 
+8pm // Free
