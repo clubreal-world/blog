@@ -20,7 +20,7 @@ Dinner and drones at Nawab Indian Restaurant in Bethlehem, PA, featuring:
 
 Tuesday, February 17 2026
 
-Nawab Indian Restaurant
+Nawab Indian Restaurant  
 13 E 4th St, Bethlehem, PA 18015
 
 7pm // 10$ Suggested Donation
