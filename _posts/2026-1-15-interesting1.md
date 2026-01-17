@@ -22,7 +22,7 @@ ClubRealWorld DJs
 
 Saturday, January 17  
 
-National Sokols 
+National Sokols  
 613 Hillside Ave, Bethlehem, PA 18015  
 
 8pm // Free
