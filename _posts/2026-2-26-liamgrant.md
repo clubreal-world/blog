@@ -12,7 +12,7 @@ ClubRealWorld presents:
 
 The next installment of our "community venue" series takes us to Susquehanna Street Diner in Allentown, PA for an evening of avant-folk, singer-songwriter and unclassifiable sounds.
 
-<a href="https://liamgrant.bandcamp.com/">Liam Grant</a> - Boston-based guitarist with a punk ethos, cut from the American Primitive cloth. Liam's latest album Prodigal Sun is out now on VHF Records. 
+<a href="https://liamgrant.bandcamp.com/">Liam Grant</a> - Boston-based guitarist with a punk ethos, cut from the American Primitive cloth. Liam's latest album Prodigal Son is out now on VHF Records. 
 
 <a href="https://samboston.bandcamp.com/">Sam Boston</a> - Sam is from Connecticut. He builds instruments, tools, and sometimes sculptures. He likes resonating objects, long duration events, and attempts at repitition. 
 
