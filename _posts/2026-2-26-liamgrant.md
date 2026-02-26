@@ -23,6 +23,7 @@ The next installment of our "community venue" series takes us to Susquehanna Str
 Thursday, March 19 2026
 
 Susquehanna Street Diner
+
 1701 E Susquehanna St, Allentown, PA 18103
 
 7pm // $10 Suggested Donation
