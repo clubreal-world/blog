@@ -17,7 +17,7 @@ Encounters #1: [Sailcloth](https://sailcloth.bandcamp.com/) X [Pigeon School](ht
 
 [Uffdow](https://uffdow.bandcamp.com/): Oli and Friends from Philadelphia. Oli is a member of the band [Prill](https://prill.bandcamp.com/) and across several low-key releases on Bandcamp, has created a body of work melding tender yet mysterious ballads with searching vocals approaching the beauty of artists like Grouper or Maxine Funke. 
 
-Thursday, April 9
+Thursday, April 9 2026
 
 Lehigh Valley Friends Meeting
 
