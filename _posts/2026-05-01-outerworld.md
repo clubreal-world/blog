@@ -7,7 +7,7 @@ blurb: An evening of psychedelic music in Bethlehem, PA
 ---
 ClubRealWorld Presents:
 
-<img src="/images/bullseye.png">
+<img src="/images/outerworld.png">
 
 A special night of psychedelic, mercurial and raw music by:
 
