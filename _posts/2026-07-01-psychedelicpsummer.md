@@ -17,7 +17,7 @@ Featuring
 
 [Luke Schneider]([https://lukeschneider.bandcamp.com/music]) - Luke has been a mindblowing presence on the scene of ambient psychedelia and outré folk since his landmark 2020 album Altar of Harmony released by Third Man Records. After other similarly heady releases on other much-loved labels like Leaving Records and Centripetal Force Records, we are excited to witness his prowess in person with a set of solo pedal steel guitar. 
 
-We're excited for sets from local luminaries [The Song Poet]([https://thesongpoet1.bandcamp.com/)] and [Dylan Donovan]([https://dylandonovan.bandcamp.com/track/kaos-magick-le-mal]), whose works bend genres, forms and expressions, pushing at the limits of what might think of as psychedelic experiences. 
+We're excited for sets from local luminaries [The Song Poet]([https://thesongpoet1.bandcamp.com/]) and [Dylan Donovan]([https://dylandonovan.bandcamp.com/track/kaos-magick-le-mal]), whose works bend genres, forms and expressions, pushing at the limits of what might think of as psychedelic experiences. 
 
 And our dear friend [Pseu Braun]([https://wfmu.org/playlists/HK]) will be spinning head trip sounds all night. 
 
